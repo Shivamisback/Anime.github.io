@@ -40,4 +40,19 @@ footer {
     border: 1px solid #ccc;
     padding: 10px;
     margin-bottom: 10px;
+    display: flex;
+}
+
+.anime img {
+    width: 150px;
+    height: auto;
+    margin-right: 20px;
+}
+
+.anime-details {
+    flex: 1;
+}
+
+.anime h3 {
+    margin-top: 0;
 }
